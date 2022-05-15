@@ -1,6 +1,6 @@
 # TrafficLight
 The project is adopted from UT Austin’s Embedded System Shape the World course. 
-The purpose of the project is to solve traffic light issue at a cross section of 2 one-way street with pedestrian crossing. 
+The purpose of the project is to solve traffic light issue at a cross section of 2 one-way streets with pedestrian crossing. 
 Three sensors are used for each road and pedestrians. A state machine is design to guarantee the traffic flow.
 The project runs on Texas Instrument TM4C123 launchpad board.
 Output port for road lights is port B (pin 0-5). Output port for pedestrian lights is port E (pin 1 and 3).

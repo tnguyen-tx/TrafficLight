@@ -14,4 +14,4 @@ Walk: Pedestrians can walk, walk light is green
 Wait_W: Pedestrians need to wait, red light
 Hurry: Pedestrians need to be hurry, blinking green light
 
-![image](https://user-images.githubusercontent.com/57820377/168492827-a44d0b4a-8818-4d1e-b945-ce3dfad55af1.png)
+![image](https://user-images.githubusercontent.com/57820377/168493288-b41eb801-07da-4aab-b961-36d7e69fd83a.png)
